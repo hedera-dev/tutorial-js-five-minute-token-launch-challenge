@@ -37,10 +37,10 @@ Intended to be used as a common starting point for demo repos for tutorials.
    1. Private key:
       Leave blank to accept the default, which is to use the first account generated earlier
       - Note that you may alternatively use the "HEX Encoded Private Key" of the "ECDSA Account"
-        from [`portal.hedera.com`](https://portal.hedera.com/dashboard).
+        from the [Hedera Portal](https://hubs.ly/Q03YhrDx0).
         This option requires a few extra minutes.
    1. Copy the address of the newly generated account to your clipboard
-1. Visit [`faucet.hedera.com`](https://faucet.hedera.com/) in a new browser tab/window
+1. Visit the [Hedera Faucet](https://hubs.ly/Q03YhrGz0) in a new browser tab/window
    1. Note that if you have previously funded this particular account,
       you may skip the following steps
    1. Paste the address of your newly generated account from your clipboard
